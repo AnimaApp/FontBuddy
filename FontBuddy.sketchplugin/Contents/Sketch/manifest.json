@@ -1,0 +1,34 @@
+{
+	"name": "FontBuddy",
+	"description": "Get Free Fonts, Inside Sketch",
+	"author": "Anima App",
+	"homepage": "http://bestfreefonts.co/",
+	"version": "1.0.1",
+    "appcast": "https://www.animaapp.com/plugins/fontbuddy/appcast.xml",
+	"identifier": "com.animaapp.fontbuddy",
+	"compatibleVersion": 43,
+	"bundleVersion": 1,
+	"commands": [{
+		"name": "📘 FontBuddy by Anima",
+		"identifier": "com.animaapp.fontbuddy.dashboard",
+		"script": "plugin.js",
+        "shortcut" : "cmd shift f",
+		"handler": "showDashboard"
+		},
+        {
+                 "script": "plugin.js",
+                 "name" : "Check For Missing Fonts",
+                 "handlers" : {
+                 "actions": {
+                 "OpenDocument": "onOpenDocument"
+                 }
+                 },
+                 "identifier" : "com.animaapp.fontbuddy.onopendoc"
+        }
+
+                 ],
+	"menu": {
+		"items": ["com.animaapp.fontbuddy.dashboard"],
+		"isRoot": true
+	}
+}
