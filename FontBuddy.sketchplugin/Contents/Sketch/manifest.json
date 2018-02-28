@@ -3,10 +3,10 @@
 	"description": "Get Missing & Free Fonts, Inside Sketch",
 	"author": "Anima App",
 	"homepage": "http://fontbuddy.co/",
-	"version": "1.0.2",
+	"version": "1.0.3",
     "appcast": "https://www.animaapp.com/plugins/fontbuddy/appcast.xml",
 	"identifier": "com.animaapp.fontbuddy",
-	"compatibleVersion": 43,
+	"compatibleVersion": 49,
 	"bundleVersion": 1,
 	"commands": [{
 		"name": "📘 FontBuddy by Anima",
