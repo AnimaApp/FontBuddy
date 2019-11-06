@@ -18,11 +18,9 @@ If you have some missing fonts that are available for free download (i.e on Goog
 
 ## Anima
 In case you haven’t heard of us yet, we’re [Anima](https://www.animaapp.com). 
-We aim to empower designers to achieve more without having to code. Amongst our latest releases you can find:
-* [Launchpad](https://launchpad.animaapp.com) — Publish websites from Sketch.
-* [AutoLayout](https://animaapp.github.io/Auto-Layout/) — Responsive design in Sketch.
-* [MyPortfolio.design](https://myportfolio.design) — A Free home for your Portfolio.
+We empower designers to achieve more without having to code.
 
-## Missing a Free Font?
-You can submit free fonts to the catalogue at [FontBuddy.co](http://fontbuddy.co/)
-
+With [Anima Toolkit for Sketch](https://www.animaapp.com) you can:
+* Create responsive and interactive High-fidelity prototypes, all inside Sketch.
+* Impress your manager or your clients with a small effort.
+* Export Sketch to HTML - i.e landing pages, or offline prototypes.
