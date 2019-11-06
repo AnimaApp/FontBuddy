@@ -21,6 +21,7 @@ In case you haven’t heard of us yet, we’re [Anima](https://www.animaapp.com)
 We empower designers to achieve more without having to code.
 
 With [Anima Toolkit for Sketch](https://www.animaapp.com) you can:
-* Create responsive and interactive High-fidelity prototypes, all inside Sketch.
+
+* Create responsive and interactive High-fidelity prototypes, all inside Sketch.
 * Impress your manager or your clients with a small effort.
 * Export Sketch to HTML - i.e landing pages, or offline prototypes.
